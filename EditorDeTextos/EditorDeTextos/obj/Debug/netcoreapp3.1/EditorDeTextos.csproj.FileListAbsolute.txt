@@ -1,0 +1,14 @@
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\bin\Debug\netcoreapp3.1\EditorDeTextos.exe
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\bin\Debug\netcoreapp3.1\EditorDeTextos.deps.json
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\bin\Debug\netcoreapp3.1\EditorDeTextos.runtimeconfig.json
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\bin\Debug\netcoreapp3.1\EditorDeTextos.runtimeconfig.dev.json
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\bin\Debug\netcoreapp3.1\EditorDeTextos.dll
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\bin\Debug\netcoreapp3.1\EditorDeTextos.pdb
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\obj\Debug\netcoreapp3.1\EditorDeTextos.csproj.AssemblyReference.cache
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\obj\Debug\netcoreapp3.1\EditorDeTextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\obj\Debug\netcoreapp3.1\EditorDeTextos.AssemblyInfoInputs.cache
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\obj\Debug\netcoreapp3.1\EditorDeTextos.AssemblyInfo.cs
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\obj\Debug\netcoreapp3.1\EditorDeTextos.csproj.CoreCompileInputs.cache
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\obj\Debug\netcoreapp3.1\EditorDeTextos.dll
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\obj\Debug\netcoreapp3.1\EditorDeTextos.pdb
+C:\Users\leo_r\Desktop\EditorDeTextos\EditorDeTextos\obj\Debug\netcoreapp3.1\EditorDeTextos.genruntimeconfig.cache
